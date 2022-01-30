@@ -728,10 +728,10 @@ blockquote p {
     display: block;
     width: auto;
     height: auto;
-    text-align: center;
+    text-align: left;
   }
   .author-avatar img {
-    padding: 5px;
+    padding: 0px;
     border: 1px solid #f2f3f3;
   }
   .author-discrip {
